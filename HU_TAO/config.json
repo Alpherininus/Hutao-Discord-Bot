@@ -1,0 +1,20 @@
+{
+  "details": [
+    {
+      "token": "###TOKEN###",
+      "prefix": "t?"
+    }
+  ],
+  "words": [
+    {
+      "tem": "hoi"
+    }
+  ],
+  "antispam": [
+    {
+      "timewm": 5000,
+      "msgpw": 5,
+      "delete": 5
+    }
+  ]
+}
